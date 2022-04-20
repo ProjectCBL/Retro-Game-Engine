@@ -13,6 +13,7 @@ public class Constants {
     // Box2D Physics
     public static final Vector2 GRAVITY  = new Vector2(0, -9.81f);
 
-
+    // Pixels Per Meter
+    public static final int PPM = 100;
 
 }
