@@ -1,4 +1,4 @@
-package com.retro.engine;
+package com.retro.engine.gameobjects;
 
 public class Entity {
 
