@@ -2,9 +2,7 @@ package com.retro.engine.gameobjects;
 
 import com.retro.engine.systems.System;
 import com.retro.engine.components.Component;
-import com.retro.engine.components.PositionComponent;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
