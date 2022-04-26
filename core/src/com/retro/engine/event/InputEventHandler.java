@@ -2,7 +2,7 @@ package com.retro.engine.event;
 
 import com.badlogic.gdx.InputProcessor;
 
-public class InputHandler implements InputProcessor {
+public class InputEventHandler implements InputProcessor {
 
     @Override
     public boolean keyDown(int keycode) {
@@ -43,5 +43,5 @@ public class InputHandler implements InputProcessor {
     public boolean scrolled(float amountX, float amountY) {
         return false;
     }
-    
+
 }
